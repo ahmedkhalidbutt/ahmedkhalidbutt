@@ -22,14 +22,14 @@ Hi, I'm Ahmad Khalid Butt, a JS Developer 🚀 from Pakistan, currently, I'm a C
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [ZTorrent](https://github.com/ahmedkhalidbutt/ztorrent);
-- 🌱 I’m currently learning GraphQL and Node; 
-- 👯 I’m looking to collaborate on [ZTorrent](https://github.com/ahmedkhalidbutt/ztorrent) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping industry entering aspirants;
-- 📫 How to reach me: ahmadkhalidbutt@hotmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 👨🏽‍💻 I’m currently working on [ZTorrent](https://github.com/ahmedkhalidbutt/ztorrent)
+- 🌱 I’m currently learning GraphQL and Node
+- 👯 I’m looking to collaborate on [ZTorrent](https://github.com/ahmedkhalidbutt/ztorrent) 🤝
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: I started helping industry entering aspirants
+- 📫 How to reach me: ahmadkhalidbutt@hotmail.com
+- 📝[Resume](https://drive.google.com/file/d/1KmYSjv87QxKPuS30IWQtPX6LJBaXjZoc/view)
 
 **Languages and Tools:**  
 
