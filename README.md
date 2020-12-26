@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm Ahmad Khalid Butt, a JS Developer 🚀 from Pakistan, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), JS Developer 👨🏽‍💼[@KarigarWebSolutions](https://karigar.pk/) and a former Intern [@hackcode](https://hackcode.com/). Beside's programming, I enjoy music and traveling.
+Hi, I'm Ahmad Khalid Butt, a JS Developer 🚀 from Pakistan, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Full Stack Developer 👨🏽‍💼[@DMechs](https://dmechs.pk/) and a former Javascript developer [@KarigarWebSolutions](https://karigar.pk/). Beside's programming, I enjoy music and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
